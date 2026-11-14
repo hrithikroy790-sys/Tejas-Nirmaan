@@ -25,7 +25,7 @@ export default function Projects() {
       <section className="bg-[#e9ebe3] px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
         <div className="mx-auto max-w-7xl">
           <p className="text-xs uppercase tracking-[0.2em] text-[#69785b]">
-            Archastu / Portfolio
+            Tejas nirmaan / Portfolio
           </p>
 
           <h1 className="font-display mt-5 text-5xl sm:text-7xl">
