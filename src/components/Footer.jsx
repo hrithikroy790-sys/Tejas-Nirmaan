@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col gap-3 border-t border-white/15 pt-5 text-xs text-white/50 sm:flex-row sm:justify-between">
-          <p>© {new Date().getFullYear()} Tejas Nirman</p>
+          <p>© {new Date().getFullYear()} Tejas Nirmaan</p>
           <Link to="/" className="hover:text-white">Back to Home ↑</Link>
         </div>
       </div>

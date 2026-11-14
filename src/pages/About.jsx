@@ -61,8 +61,8 @@ export default function About() {
 
           <div className="mt-7 space-y-5 text-sm leading-8 text-[#686b61] sm:text-base">
             <p>
-              Archastu Design Studio is a multidisciplinary design
-              consultancy founded in 2017 by Ar. Vivek Kumar Saha.
+              Tejas Nirmaan is a multidisciplinary design
+              consultancy founded in 2017 by Vishal Vardhan.
               Based in Patna, Bihar, the studio works across
               architectural design, interior design, planning and
               turnkey projects.
