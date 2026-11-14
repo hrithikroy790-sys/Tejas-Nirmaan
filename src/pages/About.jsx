@@ -34,7 +34,7 @@ export default function About() {
       <section className="bg-[#e9ebe3] px-5 py-16 sm:px-8 sm:py-24 lg:px-12">
         <div className="mx-auto max-w-7xl">
           <p className="text-xs uppercase tracking-[0.2em] text-[#69785b]">
-            Archastu Design Studio / About Us
+             Tejas Nirmaan / About Us
           </p>
 
           <h1 className="font-display mt-6 max-w-4xl text-5xl leading-tight sm:text-7xl">

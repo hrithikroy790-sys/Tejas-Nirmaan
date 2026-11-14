@@ -67,10 +67,10 @@ export default function Contact() {
               Email
             </p>
             <a
-              href="mailto:hello@archastu.com"
+              href="mailto:tejasnirmaan@gmail.com"
               className="mt-2 inline-block text-lg hover:text-[#69785b]"
             >
-              hello@archastu.com
+              tejasnirmaan@gmail.com
             </a>
           </div>
         </div>
